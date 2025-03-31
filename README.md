@@ -1,2 +1,2 @@
-# CLERIC
-CLERIC : Content-adaptive Lifting wavelet with Enhanced Residual blocks for Image Compression
+# Learned Image Compression and Restoration for Digital Pathology
+Coming Soon...
